@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a098a8ce-a622-421d-8ec4-92d522885b60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContactComposition/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContactComposition/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContactComposition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContactComposition/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContactPhoneBook/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContactPhoneBook/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdArrayList/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdArrayList/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToe/TicTakToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/receiptProfile/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/receiptProfile/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/receiptProfile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Diary/DiaryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJs9kFszmTaIdzG9Fwiq8qE36y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Diary" />
+      <recent name="ContactComposition" />
+      <recent name="receiptProfile" />
+      <recent name="ShoppingBasket" />
+      <recent name="TicTacToe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DiaryTest">
+    <configuration name="DiaryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diary.Entry" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Diary" />
+      <option name="MAIN_CLASS_NAME" value="Diary.DiaryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryTest.happeningCanBeAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diary.Entry" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Diary" />
+      <option name="MAIN_CLASS_NAME" value="Diary.DiaryTest" />
+      <option name="METHOD_NAME" value="happeningCanBeAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryTest.newDiaryIsLocked" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diary.Entry" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Diary" />
+      <option name="MAIN_CLASS_NAME" value="Diary.DiaryTest" />
+      <option name="METHOD_NAME" value="newDiaryIsLocked" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryTest.thatdiaryCanBeLOckrd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diary.Entry" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Diary" />
+      <option name="MAIN_CLASS_NAME" value="Diary.DiaryTest" />
+      <option name="METHOD_NAME" value="thatdiaryCanBeLOckrd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryTest.wrongPasswordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diary.Entry" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Diary" />
+      <option name="MAIN_CLASS_NAME" value="Diary.DiaryTest" />
+      <option name="METHOD_NAME" value="wrongPasswordTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DiaryTest" />
+        <item itemvalue="JUnit.DiaryTest.wrongPasswordTest" />
+        <item itemvalue="JUnit.DiaryTest.happeningCanBeAdded" />
+        <item itemvalue="JUnit.DiaryTest.thatdiaryCanBeLOckrd" />
+        <item itemvalue="JUnit.DiaryTest.newDiaryIsLocked" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a098a8ce-a622-421d-8ec4-92d522885b60" name="Changes" comment="" />
+      <created>1668014377442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668014377442</updated>
+      <workItem from="1668023566977" duration="8534000" />
+      <workItem from="1668126133615" duration="1669000" />
+      <workItem from="1668135894240" duration="5271000" />
+      <workItem from="1668185158892" duration="617000" />
+      <workItem from="1668304616252" duration="3734000" />
+      <workItem from="1668453546805" duration="6211000" />
+      <workItem from="1668472572354" duration="664000" />
+      <workItem from="1668484418816" duration="594000" />
+      <workItem from="1668495221732" duration="499000" />
+      <workItem from="1668498613019" duration="2361000" />
+      <workItem from="1668537552264" duration="665000" />
+      <workItem from="1668543846629" duration="1340000" />
+      <workItem from="1668569918320" duration="9193000" />
+      <workItem from="1668671543784" duration="592000" />
+      <workItem from="1668863731156" duration="1959000" />
+      <workItem from="1668963243402" duration="7551000" />
+      <workItem from="1668980331438" duration="594000" />
+      <workItem from="1668997104976" duration="2554000" />
+      <workItem from="1669072521934" duration="4701000" />
+      <workItem from="1669434820117" duration="2412000" />
+      <workItem from="1669557277090" duration="20487000" />
+      <workItem from="1669610643084" duration="298000" />
+      <workItem from="1669634979367" duration="9495000" />
+      <workItem from="1669660945334" duration="910000" />
+      <workItem from="1669671995087" duration="595000" />
+      <workItem from="1669695508678" duration="27268000" />
+      <workItem from="1669749085163" duration="975000" />
+      <workItem from="1669765290815" duration="546000" />
+      <workItem from="1669779878194" duration="2484000" />
+      <workItem from="1669840364905" duration="593000" />
+      <workItem from="1669842225494" duration="930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
