@@ -26,6 +26,7 @@ public class Diary {
     }
 
     public void write(String title, String message) {
+        if (isLocked)throw new IllegalArgumentException();
         if (!isLocked) {
             int id = numberOfEntries() + 1;
 //        Happening happening = new Happening(message);

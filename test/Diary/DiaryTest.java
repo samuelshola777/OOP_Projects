@@ -70,4 +70,20 @@ public class DiaryTest {
                 "presentlt hungry but it's actually almost break  time", foundEntry.getMessage());
 
     }
+    @Test
+    public void writingToLockDiaryThrowExpectionTest(){
+        assertTrue(diary.isLocked());
+        assertThrows(Exception.class,()->diary.write("day of hunger", "my name is samuel shola and i'm " +
+                "presentlt hungry but it's actually almost break  time"));
+    }
+    @Test
+    void entereiesCanBefoundByIdTest(){
+        diary.unlockWith("correctPassword");
+        assertFalse(diary.isLocked());
+        diary.write("day of hunger", "my name is samuel shola and i'm " +
+                "presentlt hungry but it's actually almost break  time");
+
+
+
+    }
 }
