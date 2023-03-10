@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a098a8ce-a622-421d-8ec4-92d522885b60" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Church/Church.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Church/MemberImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Church/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Church/OsherImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContactPhoneBook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imperative/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/receiptProfile/Estore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DeanDiary/DiaryTest.java" afterDir="false" />
+    <list default="true" id="a098a8ce-a622-421d-8ec4-92d522885b60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/funtionalInterface/Tfunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diary/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diary/Diary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Diary/DiaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Diary/DiaryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +65,26 @@
       <recent name="ContactComposition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.imperative.Main">
+  <component name="RunManager" selected="Application.Tfunction">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Church.Main" />
       <module name="OOP_Projects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Church.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tfunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funtionalInterface.Tfunction" />
+      <module name="OOP_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funtionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,22 +101,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiaryTest.checkNumberOfPagesInDiary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOP_Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RenekeDiary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RenekeDiary" />
-      <option name="MAIN_CLASS_NAME" value="RenekeDiary.DiaryTest" />
-      <option name="METHOD_NAME" value="checkNumberOfPagesInDiary" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tfunction" />
         <item itemvalue="Application.imperative.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.DiaryTest.testThatWeCanChangeMessage" />
         <item itemvalue="JUnit.DiaryTest.testThatWeCanChangeTitle" />
-        <item itemvalue="JUnit.DiaryTest.checkNumberOfPagesInDiary" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +217,10 @@
       <workItem from="1672261224853" duration="189000" />
       <workItem from="1672261489066" duration="474000" />
       <workItem from="1678200454962" duration="3765000" />
-      <workItem from="1678239683092" duration="8512000" />
+      <workItem from="1678239683092" duration="11488000" />
+      <workItem from="1678362584104" duration="608000" />
+      <workItem from="1678417654346" duration="1009000" />
+      <workItem from="1678442806635" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669843345625</created>
@@ -239,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669843345625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1678269516900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678269516900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
